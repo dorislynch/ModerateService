@@ -2,7 +2,7 @@
 //  RNModerateServiceHelper.h
 //  RNModerateService
 //
-//  Created by Tsing on 11/7/23.
+//  Created by Clieny on 11/7/23.
 //  Copyright © 2023 Facebook. All rights reserved.
 //
 
